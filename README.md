@@ -2,6 +2,11 @@
 
 This is a simple directory application built with React. It allows users to add, save, and retrieve information about people, such as their name, date of birth, Aadhar number, and mobile number.
 
+## Hosted Link
+
+You can access the live application [here](https://wt-4-react-directory-app-zgib.vercel.app/).
+
+
 ## Features
 
 - Add new person entries with their details.
